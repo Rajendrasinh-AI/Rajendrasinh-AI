@@ -1,3 +1,12 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Rajendrasinh Parmar"
+theme = "hugo-nuo"
+
+[params]
+  author = "Rajendrasinh Parmar"
+  avatar = "/img/avatar.jpg"
+  seotitle = "Hugo Blog (SEO Version)"
+  subtitle = "~ The Game of Karma ~"
+  description = "Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again."
+  paginate = 10
