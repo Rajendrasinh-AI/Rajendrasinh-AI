@@ -1,6 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "http://localhost:1313/"
 languageCode = "en-us"
 title = "Rajendrasinh Parmar"
+canonifyurls = true
 theme = "hugo-nuo"
 
 [params]
