@@ -7,7 +7,7 @@ theme = "hugo-nuo"
 [params]
   author = "Rajendrasinh Parmar"
   avatar = "/img/avatar.jpg"
-  seotitle = "Hugo Blog (SEO Version)"
+  seotitle = "Rajendrasinh Parmar Blog"
   subtitle = "~ The Game of Karma ~"
-  description = "Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again."
+  description = "Blog website from Rajendrasinh Parmar"
   paginate = 10
