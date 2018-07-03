@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://rajendrasinh-ai.github.io/"
 languageCode = "en-us"
 title = "Rajendrasinh Parmar"
 canonifyurls = true
